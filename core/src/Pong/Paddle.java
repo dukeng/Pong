@@ -1,9 +1,6 @@
-package com.mygdx.game;
+package Pong;
 
-import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.Input.Keys;
 import com.badlogic.gdx.graphics.Texture;
-import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
 public class Paddle extends GameObject {
 	private int speed = 50;

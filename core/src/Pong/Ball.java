@@ -1,15 +1,9 @@
-package com.mygdx.game;
+package Pong;
 
 import java.util.Random;
 import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.Input.Keys;
 import com.badlogic.gdx.audio.Sound;
 import com.badlogic.gdx.graphics.Texture;
-import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import com.badlogic.gdx.math.Vector2;
-import com.badlogic.gdx.Audio;
-import com.badlogic.gdx.files.FileHandle;
-import com.badlogic.gdx.utils.Disposable;
 
 public class Ball extends GameObject {
 	private float timer = 0;

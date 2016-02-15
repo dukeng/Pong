@@ -1,4 +1,4 @@
-package com.mygdx.game;
+package Pong;
 
 import java.util.ArrayList;
 import java.util.List;

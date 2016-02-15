@@ -1,4 +1,4 @@
-package com.mygdx.game;
+package Pong;
 
 import com.badlogic.gdx.graphics.Texture;
 

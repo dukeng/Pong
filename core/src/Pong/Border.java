@@ -1,7 +1,6 @@
-package com.mygdx.game;
+package Pong;
 
 import com.badlogic.gdx.graphics.Texture;
-import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
 public class Border extends GameObject {
 
